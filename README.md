@@ -1,4 +1,1 @@
-# my-api-flask
-# my-api-flask
-# my-api-flask
-# my-api-flask
+# Simple exercise
